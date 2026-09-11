@@ -8,7 +8,7 @@ The platform connects government authorities, verified implementing agencies, an
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Public procurement and project implementation involve large amounts of tender, agency, proposal, financial, and monitoring data.
 
@@ -26,7 +26,7 @@ BTI addresses these challenges through a centralized, role-based, AI-assisted te
 
 ---
 
-## 💡 Our Solution
+##  Our Solution
 
 BTI provides a complete digital workflow covering:
 
@@ -34,7 +34,7 @@ BTI provides a complete digital workflow covering:
 
 The platform is designed around three primary user groups:
 
-### 🏛️ Government Portal
+###  Government Portal
 Government authorities can:
 
 - Create and manage tenders
@@ -47,7 +47,7 @@ Government authorities can:
 - Investigate potential fraud or anomalies
 - Access audit logs
 
-### 🏢 Agency Portal
+###  Agency Portal
 Verified implementing agencies can:
 
 - Complete organization registration
@@ -60,12 +60,12 @@ Verified implementing agencies can:
 - Track proposal status
 - Monitor awarded project activities
 
-### 👥 Public/Citizen Portal
+###  Public/Citizen Portal
 Citizens can access transparency-oriented information about public projects and implementation activities without requiring access to restricted government operations.
 
 ---
 
-## 🔐 Key Features
+##  Key Features
 
 ### 1. Verified Agency Registration
 
@@ -200,7 +200,7 @@ This improves accountability and makes important actions easier to review.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
                     ┌───────────────────────┐
